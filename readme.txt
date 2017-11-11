@@ -7,7 +7,7 @@ Steps for running the code:-
 
 
 Function of the RScript:-
-1. Main function of the script is to crawl and collect the data from Genime Biology Website.
+1. Main function of the script is to crawl and collect the data from Genome Biology Website.
 2. The script has a separate function for each type of field for all journals.
 3. We take individual urls for each journal and store them in a vector from the base page.
 4. we navigate through the webpage for each field and extract the nodes for the data we want to collect.
