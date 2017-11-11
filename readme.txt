@@ -1,5 +1,3 @@
-Google drive link for html pages: https://drive.google.com/drive/u/1/folders/0B0vZY4L6De7pc1kzN3FsQWZ1a0U
-
 Steps for running the code:-
 1. Clear the memory from the console.
 2. Load the libraries.
